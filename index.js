@@ -10,6 +10,11 @@ if(secondAnswer === `follow`){
     nestled in a fort of warm blankets and subsisting off of inexplicably 
     warm soup. They are content with you staying, but you wonder if you 
     should alert the world to this magical safe haven.`)
+
+
+
+
+
    
 } else if(secondAnswer === `continue`) {
     let thirdAnswer = window.prompt (`You come across a chamber that 
@@ -18,6 +23,15 @@ if(secondAnswer === `follow`){
     the light. Which do you take?`)
 
 }
+
+
+
+
+
+
+
+
+
 } else if(firstAnswer === 'right') {
     let secondAnswer = window.prompt(`You come across a snoring dragon. 
 On the other side of him, you see a shiny chest of treasure. Another path would 
